@@ -1,1 +1,1 @@
-# Python_Training_Mindteck_2026
+# Python_Training_Mindteck_2025
